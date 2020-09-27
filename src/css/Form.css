@@ -1,0 +1,10 @@
+.Form-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+}
+
+.signUpImg {
+  width: 100%;
+}
